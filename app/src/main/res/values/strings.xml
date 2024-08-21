@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Accessibility</string>
+    <string name="accessibility_service_description">This is service for gesture in android</string>
+    <string name="accessibility_service_label">GestureAccessibilityService</string>
+    <string name="power">Power</string>
+    <string name="volume">Volume Up</string>
+    <string name="volume_down">Volume Down</string>
+    <string name="scroll">Scroll Down</string>
+    <string name="swipe">Swipe Right</string>
+    <string name="simulateTouch">Simulate Touch</string>
+    <string name="voice">Start Voice</string>
+    <string name="stop">Stop Voice</string>
+</resources>
